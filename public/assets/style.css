@@ -18,15 +18,11 @@ body {
 .container {
   background-color: #eeebeb;
   width: 400px;
-  /* height: 70vh; */
+  margin: 1rem;
   padding: 20px;
   border-radius: 20px;
   box-shadow: 20px 20px 50px #19191955;
   text-align: center;
-  /* display: flex;
-  flex-direction: columns;
-  align-items: center;
-  justify-content: space-between; */
 }
 
 .container h1 {
